@@ -1,0 +1,365 @@
+#Footer
+
+<script>
+/* removing double click browser functionality*/
+	document.ondblclick = function(evt) {
+    if (window.getSelection)
+        window.getSelection().removeAllRanges();
+    else if (document.selection)
+        document.selection.empty();
+}
+</script>
+
+
+
+#freeformat HTML
+
+<center><h3><span id=uk1>Software Sized Right</span> for <span id=uk2>Your Food or Beverage Business</span></h3></center> 
+
+
+<span id=uk3>At some point for most businesses</span>, <span id=uk4>what used to work to keep track</span> <span id=uk5>of your inventory</span>, <span id=uk6>production</span>, and <span id=uk7>billing</span> – <span id=uk8>often QuickBooks or Excel</span> – <span id=uk9>just can’t keep up anymore</span>. <span id=uk10>But you can’t afford a big investment</span> <span id=uk11>in custom software</span> and <span id=uk12>the IT department to run it</span>.<br><br>
+
+<span id=uk13>That’s why you need Food and Beverage ERP Essentials</span>. <span id=uk14>Food and Beverage ERP Essentials is new business management software</span>, <span id=uk15>designed just for businesses your size</span>. <span id=uk16>Unlike a full ERP (Enterprise Resource Planning) solution</span>, <span id=uk17>there’s no complex customization needed</span> and <span id=uk18>unlike QuickBooks or Excel</span>, <span id=uk19>it goes beyond financials</span> to <span id=uk20>help you manage production</span>, <span id=uk21>quality</span> and <span id=uk22>safety</span> too. <span id=uk23>It makes running your business easier</span>, <span id=uk24>from providing you with automated reminders of quality checks</span> to <span id=uk25>helping you know when to reorder</span> <span id=uk26>ingredients</span> or <span id=uk27>supplies</span>. <span id=uk28>Food and Beverage ERP Essentials</span> <span id=uk29>helps you manage your raw materials</span>, <span id=uk30>production rates</span>, <span id=uk31>finished goods inventories</span>, <span id=uk32>customer sale rates</span>, <span id=uk33>revenues</span> and <span id=uk34>profits</span>. And <span id=uk35>because it links the records</span> <span id=uk36>of ingredients to your finished products</span>, <span id=uk37>it can help you with batch controls</span>, <span id=uk38>inspection statuses</span>, <span id=uk39>expiration management</span>, <span id=uk40>track and trace</span>, <span id=uk41>recalls</span>, and <span id=uk42>other food safety requirements</span>. It <span id=uk43>turns activity into data</span> and <span id=uk44>data into information</span> that <span id=uk45>can help you make any needed adjustments</span> <span id=uk46>to improve your results.</span><br><br>
+
+<span id=uk47>Best of all</span>, <span id=uk48>it’s easy to get started</span> <span id=uk49>with Food and Beverage ERP Essentials</span>. <span id=uk50>You don’t need to know about software</span> or <span id=uk51>have an IT department</span>. <span id=uk52>Simply download the application</span> and <span id=uk53>follow the step-by-step wizard</span> to <span id=uk54>link it to your business data</span>. <span id=uk55>We’ll provide online training</span> <span id=uk56>to help you and your team get started</span>, <span id=uk57>quickly</span>. <span id=uk58>Most users are able to complete the set-up</span> and <span id=uk59>video format training</span> in <span id=uk60>under a week</span> and <span id=uk61>can immediately begin generating reports</span>, <span id=uk62>having the software flag potential quality issues</span>, or <span id=uk63>highlight which inventory to ship first</span>. And, <span id=uk64>because we understand the needs of small businesses</span>, <span id=uk65>Food and Beverage ERP Essentials</span> <span id=uk66>is priced per user</span> <span id=uk67>per month</span>, <span id=uk68>like a subscription</span>, so that <span id=uk69>it scales with your business</span>. <span id=uk70>You pay as you go</span>, and <span id=uk71>you never pay for more than you need</span>.<br><br>
+
+<span id=uk72>Food and Beverage ERP Essentials</span> – <span id=uk73>it’s software specifically designed for the food business</span> and <span id=uk74>for dynamic companies like yours</span>.<br><br>
+
+
+
+
+
+
+<br><br>
+<center><span id=ukN class=none>I couldn’t find anything that I particularly liked or disliked in the description above</span></center>
+
+<br><br>
+<div id=inputs>
+<input name='T9_uk1' id='T9_uk1' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk2' id='T9_uk2' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk3' id='T9_uk3' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk4' id='T9_uk4' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk5' id='T9_uk5' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk6' id='T9_uk6' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk7' id='T9_uk7' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk8' id='T9_uk8' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk9' id='T9_uk9' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk10' id='T9_uk10' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk11' id='T9_uk11' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk12' id='T9_uk12' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk13' id='T9_uk13' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk14' id='T9_uk14' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk15' id='T9_uk15' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk16' id='T9_uk16' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk17' id='T9_uk17' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk18' id='T9_uk18' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk19' id='T9_uk19' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk20' id='T9_uk20' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk21' id='T9_uk21' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk22' id='T9_uk22' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk23' id='T9_uk23' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk24' id='T9_uk24' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk25' id='T9_uk25' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk26' id='T9_uk26' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk27' id='T9_uk27' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk28' id='T9_uk28' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk29' id='T9_uk29' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk30' id='T9_uk30' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk31' id='T9_uk31' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk32' id='T9_uk32' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk33' id='T9_uk33' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk34' id='T9_uk34' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk35' id='T9_uk35' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk36' id='T9_uk36' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk37' id='T9_uk37' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk38' id='T9_uk38' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk39' id='T9_uk39' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk40' id='T9_uk40' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk41' id='T9_uk41' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk42' id='T9_uk42' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk43' id='T9_uk43' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk44' id='T9_uk44' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk45' id='T9_uk45' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk46' id='T9_uk46' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk47' id='T9_uk47' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk48' id='T9_uk48' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk49' id='T9_uk49' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk50' id='T9_uk50' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk51' id='T9_uk51' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk52' id='T9_uk52' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk53' id='T9_uk53' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk54' id='T9_uk54' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk55' id='T9_uk55' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk56' id='T9_uk56' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk57' id='T9_uk57' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk58' id='T9_uk58' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk59' id='T9_uk59' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk60' id='T9_uk60' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk61' id='T9_uk61' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk62' id='T9_uk62' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk63' id='T9_uk63' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk64' id='T9_uk64' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk65' id='T9_uk65' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk66' id='T9_uk66' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk67' id='T9_uk67' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk68' id='T9_uk68' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk69' id='T9_uk69' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk70' id='T9_uk70' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk71' id='T9_uk71' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk72' id='T9_uk72' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk73' id='T9_uk73' class="numeric_input" type="text" style="width: 5%">
+<input name='T9_uk74' id='T9_uk74' class="numeric_input" type="text" style="width: 5%">
+<input name="T9_ukN" id="T9_ukN" class="numeric_input" type="text" style="width: 5%">
+<br>
+<input name="T9_main" id="T9_main" class="numeric_input" type="text" style="width: 100%">
+<input name="T9_comb" id="T9_comb" class="numeric_input" type="text" style="width: 100%">
+<input name="T9_green" id="T9_green" class="numeric_input" type="text" style="width: 100%">
+<input name="T9_red" id="T9_red" class="numeric_input" type="text" style="width: 100%">
+</div>
+
+<script>
+$('document').ready(function() {
+TextHighlighter("T9")
+
+/***** Function Documentation *****
+	TextHighlighter(QID [, options])
+	- QID		: Type: String
+	- options	: Type: Object, (Optional)
+		- prefix	: Type: String, default: 'uk'
+		- main		: Type: String, default: 'main'
+		- comb		: Type: String, default: 'comb'
+		- green		: Type: String, default: 'green'
+		- red		: Type: String, default: 'red'
+		- ex		: Type: Boolean, default: true
+		- blankVal	: Type: String, default: '0'
+		- greenVal	: Type: String, default: '1'
+		- redVal	: Type: String, default: '2'
+**********************************/
+
+function TextHighlighter(QID, options) {
+	var
+	prefix = options === undefined || options.prefix === undefined ? 'uk' : options.prefix,
+	main = options === undefined || options.main === undefined ? 'main' : options.main,
+	comb = options === undefined || options.comb === undefined ? 'comb' : options.comb,
+	green = options === undefined || options.green === undefined ? 'green' : options.green,
+	red = options === undefined || options.red === undefined ? 'red' : options.red,
+	ex = options === undefined || options.ex === undefined ? true : options.ex,
+	blankVal = options === undefined || options.blankVal === undefined ? '0' : options.blankVal,
+	greenVal = options === undefined || options.greenVal === undefined ? '1' : options.greenVal,
+	redVal = options === undefined || options.redVal === undefined ? '2' : options.redVal;
+	
+	$('#inputs').hide();	//show in testing.
+	$('input[name^=' + QID + '_' + prefix + ']').val(blankVal);
+	$.each([main, comb, green, red], function(i, val) {
+		$('input#' + QID + '_' + val).val('');
+	});
+	$('div#' + QID + '_div').addClass('TextHighlighter');
+	$('.question_body span').click( function() {
+		if($(this).hasClass('none')) {
+			if($(this).hasClass('selected')) {
+				$(this).removeClass('selected');
+				UpdateMain(this.id, blankVal);
+			} else {
+				$(this).addClass('selected');
+				UpdateMain(this.id, 1);
+				if(ex) {
+					var thisid = this.id;
+					$('.question_body span.green, .question_body span.red').each(function() {
+						$(this).removeClass('green').removeClass('red');
+						$('#' + QID + '_' + this.id).val(blankVal);
+						$('#' + QID + '_' + comb).val(thisid.split(prefix)[1]);
+						RemoveRed(this.id);
+						RemoveGreen(this.id);
+					});
+				}
+			}
+		} else {
+			if($(this).hasClass('green')) {
+				$(this).removeClass('green').addClass('red');
+				UpdateMain(this.id, redVal);
+				UpdateRed(this.id);
+			} else if($(this).hasClass('red')) {
+				$(this).removeClass('red');
+				UpdateMain(this.id, blankVal);
+				RemoveRed(this.id);
+			} else {
+				$(this).addClass('green');
+				UpdateMain(this.id, greenVal);
+				UpdateGreen(this.id);
+			}
+			if(ex)	RemoveNone();
+		}
+	});
+	
+	function UpdateMain(objId, val) {
+		$('#' + QID + '_' + objId).val(val);
+		var arr = new Array(),
+		initialVal = $('#' + QID + '_' + main).val();
+		if(initialVal != "") {
+			arr = arr.concat(initialVal.split(','));
+		}
+		arr.push(objId.split(prefix)[1]);
+		$('#' + QID + '_' + main).val(arr.toString());
+		UpdateComb(objId, val);
+	}
+	function UpdateComb(objId, val) {
+		var combVal = $('#' + QID + '_' + comb).val(),
+		newVal = objId.split(prefix)[1];
+		var arr = new Array(), newArr = new Array();
+		if(combVal != "") {
+			arr = arr.concat(combVal.split(','));
+			$.each(arr, function(i, val) {
+				if(newVal != val) {
+					newArr.push(val);
+				}
+			});
+		}
+		if(val != blankVal)	newArr.push(newVal);
+		$('#' + QID + '_' + comb).val(newArr.toString());
+	}
+	function UpdateGreen(objId) {
+		var arr = new Array(),
+		newVal = objId.split(prefix)[1],
+		initialVal = $('#' + QID + '_' + green).val();
+		if(initialVal != "") {
+			arr = arr.concat(initialVal.split(','));
+		}
+		arr.push(newVal);
+		$('#' + QID + '_' + green).val(arr.toString());
+		RemoveRed(objId);
+	}
+	function UpdateRed(objId) {
+		var arr = new Array(),
+		newVal = objId.split(prefix)[1],
+		initialVal = $('#' + QID + '_' + red).val();
+		if(initialVal != "") {
+			arr = arr.concat(initialVal.split(','));
+		}
+		arr.push(newVal);
+		$('#' + QID + '_' + red).val(arr.toString());
+		RemoveGreen(objId);
+	}
+	function RemoveRed(objId) {
+		var redVal = $('#' + QID + '_' + red).val(),
+		newVal = objId.split(prefix)[1];
+		if(redVal != "") {
+			var arr = new Array(), newArr = new Array();
+			arr = arr.concat(redVal.split(','));
+			$.each(arr, function(i, val) {
+				if(newVal != val) {
+					newArr.push(val);
+				}
+			});
+			$('#' + QID + '_' + red).val(newArr.toString());
+		}
+	}
+	function RemoveGreen(objId) {
+		var greenVal = $('#' + QID + '_' + green).val(),
+		newVal = objId.split(prefix)[1];
+		if(greenVal != "") {
+			var arr = new Array(), newArr = new Array();
+			arr = arr.concat(greenVal.split(','));
+			$.each(arr, function(i, val) {
+				if(newVal != val) {
+					newArr.push(val);
+				}
+			});
+			$('#' + QID + '_' + green).val(newArr.toString());
+		}
+	}
+	function RemoveNone() {
+		var noneObj = $('.question_body span.selected');
+		if(!!$(noneObj).length) {
+			var thisid = $(noneObj).attr('id'),
+			combVal = $('#' + QID + '_' + comb).val(),
+			arr = new Array(), newArr = new Array();
+			$('#' + QID + '_' + thisid).val('0');
+			$(noneObj).removeClass('selected');
+			if(combVal != "") {
+				arr = arr.concat(combVal.split(','));
+				$.each(arr, function(i, val) {
+					if(val != thisid.split(prefix)[1]) {
+						newArr.push(val);
+					}
+				});
+			}
+			$('#' + QID + '_' + comb).val(newArr.toString());
+		}
+	}
+}
+});
+</script>
+
+<style>
+.TextHighlighter .question_body {
+	margin-top: 10px;
+	padding: 20px;
+	font-size: 1em;
+	border: 1px solid #bdbdbd;
+	border-radius: 5px;
+}
+.TextHighlighter .question_body span {
+	cursor: pointer;
+}
+.TextHighlighter .green {
+	background: green;
+	color: white;
+	border-radius: 6px;
+	
+}
+.TextHighlighter .red {
+	background: red;
+	color: white;
+	border-radius: 6px;
+}
+.TextHighlighter span.none {
+	display: inline-block;
+	background-color: #ECECEC;
+	border: 1px solid #BABABA;
+	border-radius: 5px;
+	padding: 5px;
+	font-weight: bold;
+}
+
+
+span.none:hover {
+  transform:scale(1.1);
+  border: 1px solid white;
+  border-radius: 9px !important;
+  font-weight: bold ;
+  color:white;
+   background-color: #002526 !important;
+}
+
+.TextHighlighter span.selected {
+	background-color: #174A5B !important;
+		color: white !important;
+		    border-radius: 9px !important;
+			transition: 2s;
+	
+}
+
+
+</style>
+
+
+
+#customJavascript
+
+
+var sArr = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74],
+qName = 'T9_uk',
+greenVal = 1,
+redVal = 2,
+nValue = $('#' + qName + 'N').val(),
+flag = false;
+$.each(sArr, function(i, val) {
+	var objValue = $('#' + qName + val).val();
+	if(objValue == greenVal || objValue == redVal)	flag = true;
+});
+if(nValue != 1 && !flag) {
+	var strErrorMessage = "You must enter a response";
+}
+if(nValue == 1 && flag) {
+	var strErrorMessage = "If you can't find something attractive or unattractive from the above idea, don't choose a statement.";
+}
